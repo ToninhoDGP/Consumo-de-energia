@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Calculadora de energia
 Uma descrição breve sobre o que este programa faz.
 
 ## 🚀 Como executar
