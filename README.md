@@ -11,5 +11,5 @@
 * VS Code
 
 ## ✒️ Autor
-* **Antonio V.S.** - (https://github.com/ToninhoDGP)
+* **ToninhoDGP** - (https://github.com/ToninhoDGP)
 
